@@ -28,13 +28,20 @@ a {
 }
 
 button {
-    padding: 10px;
+    padding: 5px;
     margin-top: 10px;
     background-color: #3882F6;
     border-radius: 15px;
     width: 100px;
     border: none;
+}
 
+button:hover {
+    background-color: plum;
+}
+
+li a:hover {
+    color: plum;
 }
 
 /****************************************************** Top Section Styles *********************************************************/
@@ -127,6 +134,8 @@ ul {
 .card p {
     color: #1F2937;
     font-size: 18px;
+    font-weight: 100;
+    text-align: center;
 }
 
 

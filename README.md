@@ -1,3 +1,4 @@
+
 # landing-page
 
 
@@ -16,3 +17,5 @@ Rogério Trilhafavela -- https://www.pexels.com/@rogerio-trilhafavela-2703736/
 Caio -- https://www.pexels.com/@caio/
 
 David Pickup -- https://www.pexels.com/@davidpickup/
+
+Mehmet Turgut Kirkgoz -- https://www.pexels.com/@tkirkgoz/
